@@ -5,7 +5,7 @@ organization: paige
 notes: test file for aaal data
 resources:
   - name: aaal
-    url: 'https://dataverse.library.ualberta.ca/file.xhtml?fileId=6670&version=1.0'
+    url: 'http://opendata.tplcs.ca/data/Visits/Annual_Visits.csv'
     format: xlsx
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
